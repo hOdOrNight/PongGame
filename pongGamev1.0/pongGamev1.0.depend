@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1500484666 source:c:\codeblocks\pong\ponggamev1.0\ball.cpp
+	"ball.h"
+
+1500485689 c:\codeblocks\pong\ponggamev1.0\ball.h
+	<SDL/SDL.h>
+
+1500489579 source:c:\codeblocks\pong\ponggamev1.0\main.cpp
+	"paddle.h"
+	"ball.h"
+	<bits/stdc++.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+
+1500485821 c:\codeblocks\pong\ponggamev1.0\paddle.h
+	<SDL/SDL.h>
+
+1500485811 source:c:\codeblocks\pong\ponggamev1.0\paddle.cpp
+	"paddle.h"
+
